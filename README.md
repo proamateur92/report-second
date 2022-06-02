@@ -15,5 +15,5 @@
 
 <br>
 
-### 메인페이지 단어 등록
+### 단어등록 페이지 단어 등록
 <img width="195" alt="image" src="https://user-images.githubusercontent.com/68406448/171593867-3992bb9e-5201-4462-9365-ccc63499e8cb.png">

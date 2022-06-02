@@ -54,7 +54,7 @@ const Header = styled.div`
   transition: all 300ms ease-in-out;
   &:hover {
     font-size: 52px;
-    margin-bottom -4px;
+    margin-bottom: -4px;
     color: #ffc8dd;
   }
 `;

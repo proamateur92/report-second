@@ -29,9 +29,10 @@ const NoGuide = styled.span`
 
 const VocabContainer = styled.div`
   display: flex;
-  justify-content: space-evenly;
-  align-items: center;
   flex-flow: wrap;
+  @media screen and (max-width: 1260px) {
+    justify-content: center;
+  }
 `;
 
 const WriteButton = styled.div`
